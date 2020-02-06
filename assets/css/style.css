@@ -16,6 +16,13 @@ header {
     background-color: #ffb6c1;
     height: 100px;
     padding: 4px;
+ 
+
+}
+
+headtitle {
+    text-shadow: maroon;
+
 
 }
 
@@ -36,18 +43,26 @@ header h1 {
 
 ul.main_menu {
         margin-top: 15px;
+        font-weight: bold;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: purple;
+        text-shadow: maroon;
 }
 
 .main_menu li {
     display: inline;
     padding: 0 10px 0 10px;
     font-size: 16px;
+    color: purple;
+    text-shadow: maroon;
 }
 
 .main_menu a {
     text-decoration: none;
-    color: #000000;
+ 
     padding: 8px;
+    color: purple;
+    text-shadow: maroon;
 
 }
 
@@ -61,7 +76,7 @@ footer {
     color:#000000;
     left: 0;
     bottom: 0;
-    height: 20px;
+    height: 30px;
     width: 100%;
     line-height:30px;
         }
@@ -83,5 +98,5 @@ footer {
 
 .left {
     float: left;
-    padding: 0 20px 20px 0;
+    padding: 0 20px 70px 0;
    }
