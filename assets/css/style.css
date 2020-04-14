@@ -16,22 +16,25 @@ header {
     background-color: #ffb6c1;
     height: 100px;
     padding: 4px;
- 
+    border-radius: 10px;
 
 }
 
-headtitle {
-    text-shadow: maroon;
-
-
-}
 
 header h1 {
     text-align: center;
     color: #BA55D3;
-    line-height: 50px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 80px;
+    font-family: 'Rubik Mono One', sans-serif;
+    border: 5px solid rgb(173, 126, 221);
+    border-radius: 5px;
 }
+
+header h1:hover {
+    color: #7800c9;
+
+}
+
 
 
 .main_menu {
@@ -39,6 +42,7 @@ header h1 {
     text-align: center;
     line-height: 32px;
     background-color: #FFE4E1;
+    border-radius: 10px;
 }
 
 ul.main_menu {
