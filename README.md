@@ -5,7 +5,7 @@ DEPLOYED APPLICATION: https://violetshirokuma.github.io/violetportfolio.github.i
 
 <h2>Screenshot:</h2>
 
-![GitHub Logo](/assets/images/portfolioshot.png)
+![GitHub Logo](/assets/images/newscreen.png)
 
 
 
